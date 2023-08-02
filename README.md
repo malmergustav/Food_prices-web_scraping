@@ -2,7 +2,7 @@
 
 ## Description
 
-This project provides a web scraping tool using Selenium and BeautifulSoup to extract information on discounted products from the Mathem and Hemkop websites. It retrieves data on product names, original prices, and sales prices, allowing users to analyze savings and price distributions.
+This project provides a web scraping tool using Selenium and BeautifulSoup to extract information on discounted products from the Mathem and Hemkop websites. It retrieves data on product names, original prices, and sales prices, allowing users to analyze savings and price distributions. Furthermore, it provides visualizations illustrating the difference in their pricing strategies.
 
 ## Installation
 
